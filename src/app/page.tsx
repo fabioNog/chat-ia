@@ -18,9 +18,10 @@ export default function Home() {
               <AvatarImage src="https://github.com/fabioNog.png"/>
             </Avatar>
             <p className="leading-relaxed">
-              <span className="block font-bold text-slate-700">Humano</span>
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, &excl;
-            </p>
+  <span className="block font-bold text-slate-700">Humano</span>
+  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, &excl;
+</p>
+
 
           </div>
 
@@ -30,9 +31,10 @@ export default function Home() {
               <AvatarImage src="https://fabionog.github.io/fabionogueira/static/media/fabionogueira-pc.1806dcda3d1feef28a3b.jpeg"/>
             </Avatar>
             <p className="leading-relaxed">
-              <span className="block font-bold text-slate-700">Humano</span>
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, &excl;
-            </p>
+  <span className="block font-bold text-slate-700">Humano</span>
+  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, &excl;
+</p>
+
 
           </div>
         </CardContent>
