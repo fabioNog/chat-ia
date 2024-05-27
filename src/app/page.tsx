@@ -28,7 +28,7 @@ export default function Home() {
     setInputText("");
 
     try {
-      const response = await fetch('http://localhost:3001/chatgpt/generate', {
+      const response = await fetch('https://englishia.onrender.com/chatgpt/generate', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'
